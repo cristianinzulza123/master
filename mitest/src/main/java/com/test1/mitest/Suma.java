@@ -6,7 +6,7 @@ public class Suma {
         // Se multiplica para que el test falle
         return a * b;
     }
-	
+	//
 	public double duplicar(double a) {
         return a + a;
     }
